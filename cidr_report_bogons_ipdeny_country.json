@@ -1,0 +1,34 @@
+[
+	{
+		"code": "AT",
+		"value": 256
+	},
+	{
+		"code": "CH",
+		"value": 1024
+	},
+	{
+		"code": "DE",
+		"value": 1024
+	},
+	{
+		"code": "GB",
+		"value": 2304
+	},
+	{
+		"code": "HU",
+		"value": 2048
+	},
+	{
+		"code": "IL",
+		"value": 256
+	},
+	{
+		"code": "PL",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 768
+	}
+]

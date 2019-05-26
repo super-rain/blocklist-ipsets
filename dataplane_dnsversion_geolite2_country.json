@@ -1,0 +1,46 @@
+[
+	{
+		"code": "CN",
+		"value": 30
+	},
+	{
+		"code": "DE",
+		"value": 11
+	},
+	{
+		"code": "FR",
+		"value": 18
+	},
+	{
+		"code": "GB",
+		"value": 2
+	},
+	{
+		"code": "HK",
+		"value": 2
+	},
+	{
+		"code": "IS",
+		"value": 2
+	},
+	{
+		"code": "LT",
+		"value": 26
+	},
+	{
+		"code": "NL",
+		"value": 10
+	},
+	{
+		"code": "RO",
+		"value": 2
+	},
+	{
+		"code": "US",
+		"value": 279
+	},
+	{
+		"code": "ZA",
+		"value": 24
+	}
+]

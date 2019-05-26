@@ -1,0 +1,218 @@
+[
+	{
+		"code": "AE",
+		"value": 264
+	},
+	{
+		"code": "AL",
+		"value": 512
+	},
+	{
+		"code": "AT",
+		"value": 10752
+	},
+	{
+		"code": "AU",
+		"value": 6656
+	},
+	{
+		"code": "BE",
+		"value": 6144
+	},
+	{
+		"code": "BG",
+		"value": 1024
+	},
+	{
+		"code": "CA",
+		"value": 256
+	},
+	{
+		"code": "CH",
+		"value": 52736
+	},
+	{
+		"code": "CN",
+		"value": 256
+	},
+	{
+		"code": "CY",
+		"value": 16
+	},
+	{
+		"code": "CZ",
+		"value": 4864
+	},
+	{
+		"code": "DE",
+		"value": 212096
+	},
+	{
+		"code": "DK",
+		"value": 1920
+	},
+	{
+		"code": "EE",
+		"value": 512
+	},
+	{
+		"code": "EG",
+		"value": 1280
+	},
+	{
+		"code": "ES",
+		"value": 7936
+	},
+	{
+		"code": "FI",
+		"value": 3840
+	},
+	{
+		"code": "FR",
+		"value": 45216
+	},
+	{
+		"code": "GB",
+		"value": 48512
+	},
+	{
+		"code": "GH",
+		"value": 1024
+	},
+	{
+		"code": "GI",
+		"value": 256
+	},
+	{
+		"code": "GR",
+		"value": 1536
+	},
+	{
+		"code": "HK",
+		"value": 256
+	},
+	{
+		"code": "HR",
+		"value": 256
+	},
+	{
+		"code": "HU",
+		"value": 2560
+	},
+	{
+		"code": "IE",
+		"value": 784
+	},
+	{
+		"code": "IL",
+		"value": 1536
+	},
+	{
+		"code": "IN",
+		"value": 2304
+	},
+	{
+		"code": "IQ",
+		"value": 2048
+	},
+	{
+		"code": "IR",
+		"value": 1424
+	},
+	{
+		"code": "IT",
+		"value": 19452
+	},
+	{
+		"code": "JP",
+		"value": 2816
+	},
+	{
+		"code": "KE",
+		"value": 2048
+	},
+	{
+		"code": "KZ",
+		"value": 4096
+	},
+	{
+		"code": "LB",
+		"value": 608
+	},
+	{
+		"code": "LT",
+		"value": 256
+	},
+	{
+		"code": "LU",
+		"value": 1280
+	},
+	{
+		"code": "LY",
+		"value": 2048
+	},
+	{
+		"code": "MD",
+		"value": 768
+	},
+	{
+		"code": "MT",
+		"value": 256
+	},
+	{
+		"code": "MZ",
+		"value": 1024
+	},
+	{
+		"code": "NE",
+		"value": 780
+	},
+	{
+		"code": "NL",
+		"value": 30976
+	},
+	{
+		"code": "NO",
+		"value": 36864
+	},
+	{
+		"code": "NZ",
+		"value": 256
+	},
+	{
+		"code": "PL",
+		"value": 3072
+	},
+	{
+		"code": "RO",
+		"value": 1024
+	},
+	{
+		"code": "RS",
+		"value": 1536
+	},
+	{
+		"code": "RU",
+		"value": 27427
+	},
+	{
+		"code": "SE",
+		"value": 2176
+	},
+	{
+		"code": "UA",
+		"value": 3841
+	},
+	{
+		"code": "UG",
+		"value": 1024
+	},
+	{
+		"code": "US",
+		"value": 15369
+	},
+	{
+		"code": "VA",
+		"value": 1024
+	}
+]
